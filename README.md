@@ -1,4 +1,4 @@
-Here is an overview of each topic with insights into its relevance and implementation for an online car sales and financing platform:
+ an overview of each topic with insights into its relevance and implementation for an online car sales and financing platform:
 ________________________________________
 Topic 1: Define Data Structures and Discuss Their Importance
 Key Points:
@@ -74,6 +74,5 @@ o	Loan approval sequences.
 Features:
 •	Radix sort is non-comparative, making it faster for fixed-length data.
 •	Ideal for sorting based on multi-level keys (e.g., customer ID, car price).
-________________________________________
-Would you like to explore implementation details for any specific topic?
+
 
